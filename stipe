@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Košarka</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff4500;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .team {
+            margin: 20px 0;
+        }
+        .team h2 {
+            color: #008000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Košarka</h1>
+        <p>Košarka je timski sport koji igraju dvije ekipe s po pet igrača na pravokutnom terenu. Cilj je postići što više koševa ubacivanjem lopte kroz obruč protivničkog koša.</p>
+        
+        <div class="team">
+            <h2>Najpoznatiji timovi</h2>
+            <ul>
+                <li>Los Angeles Lakers</li>
+                <li>Boston Celtics</li>
+                <li>Chicago Bulls</li>
+                <li>Golden State Warriors</li>
+            </ul>
+        </div>
+        
+        <div class="player">
+            <h2>Slavni igrači</h2>
+            <ul>
+                <li>Michael Jordan</li>
+                <li>LeBron James</li>
+                <li>Kobe Bryant</li>
+                <li>Magic Johnson</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
